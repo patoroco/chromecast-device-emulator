@@ -75,7 +75,7 @@ var CastDeviceEmulator = require('chromecast-device-emulator');
 var emulator = new CastDeviceEmulator();
 ```
 
-Load and serve your [pre-recorded scenario JSON file](#what-is-a-scenario-json-file)
+Load and serve your [pre-recorded scenario JSON file](#what-is-a-pre-recorded-scenario-json-file)
 
 ```javascript
 // Load pre-recorded scenario
